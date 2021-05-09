@@ -27,10 +27,10 @@ Hi, I'm a passionate learner from Nepal.
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 <div>
-<a>
+<a href='https://github.com/Crian69'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crian69" />
 </a>
-<a>
+<a href='https://github.com/Crian69'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crian69&layout=compact&theme=material-palenight" />
 </a>
 
